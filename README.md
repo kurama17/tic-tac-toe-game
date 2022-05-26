@@ -1,6 +1,6 @@
-Projet Name : Tic Tac Toe Game
+# Tic Tac Toe Game
 
-Technologies :
-    - HTML
-    - CSS
-    - JavaScript
+## Technologies 
+- HTML
+- CSS
+- JavaScript
